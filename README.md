@@ -1,5 +1,6 @@
 # research-traveling-salesman
-Sample code for solving a variety of traveling salesman problem with Vroom
+Sample code for solving a variety of traveling salesman problem (technically, the
+multi-vehicle generalization called the [vehicle routing problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)) with Vroom
 
 This code doesn't work out of the box, you need a proper Vroom setup, an OSRM
 server, and an input TSV in a specific format, among other things. 
